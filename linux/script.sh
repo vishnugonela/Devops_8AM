@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #!/bin/bash
 
 echo "Hello World from GIT"
@@ -7,3 +8,8 @@ echo "Hello World from GIT"
 
 echo "Hello world from GITHUB"
 >>>>>>> 5068d12 (Updated script from GITHUB)
+=======
+#!/bin/bash
+
+echo "Hello World from GIT"
+>>>>>>> vamsi
