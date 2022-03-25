@@ -1,0 +1,18 @@
+
+	   Main/Master	
+APP 1.0   [Branch 1.0]
+    1.1			[ 1.X]
+    1.2
+    1.2.1
+
+
+
+-> 2.0 	[ Branch 2.0 ]
+
+
+
+
+App 1.0 ----> Main/master  -------> Release Version
+
+    2.0 ----> Main/master   -------> Relase 
+
