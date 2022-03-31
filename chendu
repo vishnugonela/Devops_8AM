@@ -1,0 +1,109 @@
+[33mcommit b176d731eb885b31233382c5cef3a6d4a452eaca[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: fbb1cc5 97a6130
+Author: chendu <reddi9009@gmail.com>
+Date:   Thu Mar 31 10:54:37 2022 +0000
+
+    Merge branch 'main' of https://github.com/vishnugonela/Devops_8AM
+
+[33mcommit fbb1cc50f0c07143043a263d42a06912909e5682[m
+Author: chendu <reddi9009@gmail.com>
+Date:   Thu Mar 31 10:51:56 2022 +0000
+
+    Added script file
+
+[33mcommit 97a6130d56d98098329660e63a0a13506f7b6020[m
+Author: Vishnu Gonela <vishnueee19@gmail.com>
+Date:   Thu Mar 31 08:43:06 2022 +0530
+
+    Updated Jenkins stage
+
+[33mcommit cce785c936c78bffc571556c9592295a3628a14c[m
+Author: Vishnu Gonela <vishnueee19@gmail.com>
+Date:   Thu Mar 31 08:40:05 2022 +0530
+
+    Updated Jenkins stage
+
+[33mcommit 967d9c27d7f008838c19e11ea390f3d97853464d[m
+Author: Vishnu Gonela <vishnueee19@gmail.com>
+Date:   Thu Mar 31 08:31:41 2022 +0530
+
+    test commit
+
+[33mcommit 6fe1f25018932cface8289e065b9c05d9080dd9e[m
+Author: Vishnu Gonela <vishnueee19@gmail.com>
+Date:   Thu Mar 31 08:27:20 2022 +0530
+
+    updated readme
+
+[33mcommit 56c12a120edf717ed5a5d382c538dfa90fd60f20[m
+Author: Vishnu Gonela <vishnueee19@gmail.com>
+Date:   Thu Mar 31 08:19:21 2022 +0530
+
+    Updated jenkins file
+
+[33mcommit 36be629a5e68b385e8dd8f02d6d60c9d8a988011[m
+Author: vishnugonela <vishnueee19@gmail.com>
+Date:   Wed Mar 30 08:46:24 2022 +0530
+
+    Created Jenkinsfile from BlueOcean
+
+[33mcommit a1b5e9e0422debe31071d30565b0e416161404c2[m
+Author: root <root@ip-172-31-5-98.us-west-1.compute.internal>
+Date:   Mon Mar 28 15:52:36 2022 +0000
+
+    Created script file under linux
+
+[33mcommit 10d807f0309b390227b21bee3d3c29fc76c91635[m
+Author: vamsi <v123krishna@gmail.com>
+Date:   Thu Mar 24 17:01:59 2022 +0000
+
+    added script file
+
+[33mcommit c216463c50f2903f3565bce594bef2914fd05b05[m
+Author: vishnugonela <vishnueee19@gmail.com>
+Date:   Thu Mar 24 18:03:15 2022 +0530
+
+    Create terraform.yml
+
+[33mcommit bc7ddf95a090b0805e7b13cc3395a7897ea14b55[m
+Merge: 0a8cac7 5068d12
+Author: Vishnu Gonela <vishnueee19@gmail.com>
+Date:   Thu Mar 24 08:41:34 2022 +0530
+
+    updated script from git
+
+[33mcommit 0a8cac788be9584b7f5dba5f9ad1ebccdaa67150[m
+Author: Vishnu Gonela <vishnueee19@gmail.com>
+Date:   Thu Mar 24 08:35:32 2022 +0530
+
+    Updated script from GIT
+
+[33mcommit 5068d12a933d1e9d786d4e31046e6529b2500d84[m
+Author: vishnugonela <vishnueee19@gmail.com>
+Date:   Thu Mar 24 08:29:01 2022 +0530
+
+    Updated script from GITHUB
+
+[33mcommit 5bf7683a2ffeff1184857e736c2f5fab5af39009[m
+Author: Vishnu Gonela <vishnueee19@gmail.com>
+Date:   Thu Mar 24 08:21:29 2022 +0530
+
+    created script file under linux
+
+[33mcommit f662f2a6dee93c69907161695dfd3885161e0b4a[m
+Author: Vishnu <vishnueee19@gmail.com>
+Date:   Wed Mar 23 03:24:06 2022 +0000
+
+    Created DEVOPS dir structure
+
+[33mcommit 046c704d9167851ff802f6d2700f7a5cb60abd65[m
+Author: Vishnu <vishnueee19@gmail.com>
+Date:   Wed Mar 23 03:10:16 2022 +0000
+
+    Added script file
+
+[33mcommit b9f84ea70267c67c8afa0d659467c48b198eb58f[m
+Author: vishnugonela <vishnueee19@gmail.com>
+Date:   Wed Mar 23 08:37:44 2022 +0530
+
+    Initial commit
