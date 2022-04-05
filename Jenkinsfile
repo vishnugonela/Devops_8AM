@@ -6,7 +6,6 @@ pipeline {
         sh 'echo "Hello World from stageONE"'
       }
     }
-    parallel {
     stage('Stage2') {
       steps {
         sh 'echo "This is Stage2 from Parallel block"'
@@ -15,7 +14,6 @@ pipeline {
     stage('stage3'){
 	steps{
 	 sh 'echo "This is in Parallel block"'
-	}
 	}
 
 
